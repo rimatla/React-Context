@@ -1,3 +1,3 @@
-## App converted from Redux to React Context API
+## App converted from Classes to Hooks with React Context API
 
 `useState()`, `useContext()`, `useReducer()`, `useEffect()`
